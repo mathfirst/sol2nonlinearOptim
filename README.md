@@ -7,6 +7,8 @@ This is a repository which aims to provide solutions to all the exercises in thi
 
 I regularly update the solutions in order. If you really want to get the solution to an excersice which is not in my repo yet, you can also email me. I will work on it first. 
 
+At last, if you would like to know more about me, please check out my [homepage](https://mathfirst.github.io/).
+
 ## Update list
 
 ### Nov. 12, 2023
