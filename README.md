@@ -11,5 +11,8 @@ At last, if you would like to know more about me, please check out my [homepage]
 
 ## Update list
 
+### Nov. 25, 2023
+Hooray! I am done with all the exercises in the first 4 chapters.
+
 ### Nov. 12, 2023
 Hooray! I have finished all the exercises in Chapter 1-3. Some exiercises in other chapters might have been done as well. You can check out the pdf file.
